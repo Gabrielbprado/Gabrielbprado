@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gabrielbprado/Gabrielbprado/blob/main/Design%20sem%20nome%20(4).png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ Estudante De Programação <br><br> Do Backend ao Frontend Mais Com um Foco Maior em Backend, Sou <strong>sou apaixonado por descobrir coisas novas </strong> e usá-las para criar soluções de alta qualidade.</strong> <p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
