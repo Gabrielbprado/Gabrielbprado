@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gabrielbprado/Gabrielbprado/blob/main/Design%20sem%20nome%20(4).png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gabrielbprado/Gabrielbprado/blob/main/Banner.svg" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ Estudante De Programação <br><br> Do Backend ao Frontend Mais Com um Foco Maior em Backend, Sou <strong>sou apaixonado por descobrir coisas novas </strong> e usá-las para criar soluções de alta qualidade.</strong> <p>&nbsp;
