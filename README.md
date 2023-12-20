@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<div align="center"><b>🚀 Languages and Tools</b></div>
+<div align="center"><h2>🚀 Languages and Tools</h2></div>
 
   <p align="center">
     <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
