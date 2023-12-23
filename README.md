@@ -22,9 +22,9 @@
 
 
 <br>
-  <b>⚡ Github Stats</b>
+   <div align="center"><h2>⚡ Github Stats</h2></div>
   
-  <div align="left">
+  <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielbprado&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>  
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielbprado&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" /> -->
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielbprado&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
