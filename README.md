@@ -29,8 +29,18 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielbprado&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
   </div>
 
+<br>
+<br>
+   <div align="center"><h2>☎️ Contact</h2></div>
+  
+  <div align="center">
+    <a href = "https://www.linkedin.com/in/gabriel-prado-75730929a/"><img height="35em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href = "https://www.instagram.com/gabrielb_prado/"><img height="35em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
+    <a href = "mailto:gabriel.b.prado13@gmail.com?subject=Ol%C3%A1+Vim+Pelo+Github"><img height="35em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    
+    
 
-
+  </div>
 
 <br>
 
