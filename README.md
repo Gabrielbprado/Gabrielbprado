@@ -20,10 +20,10 @@
   </p>
   <div align="center"><h2>🦾 Skills</h2></div>
   
-  <p align="center">
-  
-  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-  <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <p align="center"> 
+  <img src= "https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+          
           
   
   </p>
